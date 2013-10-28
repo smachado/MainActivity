@@ -1,0 +1,10 @@
+/.settings
+/bin
+/gen
+/.classpath
+/.project
+/ant.properties
+/build.xml
+/local.properties
+/project.properties
+/proguard-project.txt
